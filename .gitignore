@@ -1,0 +1,12 @@
+# Local/editor files
+.vscode/
+*.log
+.DS_Store
+
+# Never commit secrets
+.env
+.env.*
+secrets/
+credentials/
+*.key
+*.pem
